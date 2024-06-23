@@ -1,16 +1,16 @@
 descriptor,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
-Blocked Bike Lane,0,0,0,0,0,0,8,16,35,147,373,827,899,1524,738
-Blocked Crosswalk,0,0,0,0,0,0,0,0,0,0,0,51,535,401,168
-Blocked Hydrant,0,0,2,8,22,27,50,137,175,208,1537,2066,1774,1713,742
-Blocked Sidewalk,0,0,0,11,11,23,36,62,82,143,795,887,1203,2392,939
-Chronic Speeding,0,1,0,0,0,0,0,0,0,4,23,18,13,14,109
+Blocked Bike Lane,0,0,0,0,0,0,8,16,35,147,373,827,899,1524,753
+Blocked Crosswalk,0,0,0,0,0,0,0,0,0,0,0,51,535,401,172
+Blocked Hydrant,0,0,2,8,22,27,50,137,175,208,1537,2066,1774,1713,763
+Blocked Sidewalk,0,0,0,11,11,23,36,62,82,143,795,887,1203,2392,1037
+Chronic Speeding,0,1,0,0,0,0,0,0,0,4,23,18,13,14,119
 Chronic Stoplight Violation,0,0,0,0,0,0,0,0,0,6,18,21,5,16,6
-Detached Trailer,0,0,0,0,2,2,0,1,3,6,13,35,16,24,12
-Double Parked Blocking Traffic,2,0,1,1,12,10,35,43,47,89,563,679,548,494,190
-Double Parked Blocking Vehicle,0,0,0,0,2,0,2,7,6,14,139,207,157,163,59
+Detached Trailer,0,0,0,0,2,2,0,1,3,6,13,35,16,24,14
+Double Parked Blocking Traffic,2,0,1,1,12,10,35,43,47,89,563,679,548,494,194
+Double Parked Blocking Vehicle,0,0,0,0,2,0,2,7,6,14,139,207,157,163,64
 Drag Racing,0,0,0,0,0,0,0,0,0,9,147,159,53,72,15
-Overnight Commercial Storage,1,0,0,3,1,4,0,2,5,24,103,100,81,78,61
-Parking Permit Improper Use,0,0,0,0,0,0,0,7,3,4,160,338,297,421,350
-Posted Parking Sign Violation,0,2,0,10,32,50,68,184,173,310,1693,2722,2329,2749,1285
-Truck Route Violation,0,0,0,0,0,5,21,63,43,56,41,23,6,15,48
-Unauthorized Bus Layover,0,0,1,2,6,10,19,12,23,113,105,111,122,100,51
+Overnight Commercial Storage,1,0,0,3,1,4,0,2,5,24,103,100,81,78,67
+Parking Permit Improper Use,0,0,0,0,0,0,0,7,3,4,160,338,297,421,360
+Posted Parking Sign Violation,0,2,0,10,32,50,68,184,173,310,1693,2722,2329,2749,1344
+Truck Route Violation,0,0,0,0,0,5,21,63,43,56,41,23,6,15,59
+Unauthorized Bus Layover,0,0,1,2,6,10,19,12,23,113,105,111,122,100,53
